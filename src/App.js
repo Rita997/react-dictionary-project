@@ -8,7 +8,7 @@ function App() {
       <Dictionary />
 
       <footer>
-      <a href="">
+      <a href="https://github.com/Rita997/react-dictionary-project">
           Open-source code
         </a>
         , by Merita Ramadani
